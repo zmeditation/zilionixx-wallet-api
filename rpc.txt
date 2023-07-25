@@ -1,0 +1,3 @@
+RPC URL http://173.225.107.199:443
+Chain ID : 93
+Currency Symbol : ZNX
